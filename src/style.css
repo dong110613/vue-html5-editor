@@ -133,11 +133,10 @@
   & > .content {
     overflow: auto;
     padding: 10px;
-
+    height: 200px;
     &:focus {
       outline: 0;
     }
-
   }
 
 }
